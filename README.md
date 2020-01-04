@@ -1,5 +1,12 @@
 # 키친포스
 
+##### 코드 리뷰
+1. [1단계 - 요구사항 정리](https://github.com/next-step/ddd-strategic-design/pull/3)
+2. [2단계 - 테스트를 통한 코드 보호](https://github.com/next-step/ddd-strategic-design/pull/23)
+3. [3단계 - 용어 사전 만들기](https://github.com/next-step/ddd-strategic-design/pull/35)
+4. [4단계 - 모델링 하기](https://github.com/next-step/ddd-strategic-design/pull/37)
+5. [5단계 - 기능 우선 패키지 구성하기](https://github.com/next-step/ddd-strategic-design/pull/51)
+
 ## 요구 사항
 
 - 치킨집 포스 프로그램을 구현 한다.
